@@ -1,4 +1,4 @@
-## ByPassAV EmpirePowerShell part 1
+## ByPassAV Empire-PowerShell part 1
 
 
 ```markdown
@@ -139,9 +139,9 @@ compile:
 
 For more details see [video](https://www.youtube.com/watch?v=0jaC8156BEE)
 
-## ByPassAV EmpirePowerShell part 2
+## ByPassAV Empire-PowerShell part 2
 
-360 fud
+[360 fud](https://blog.flanker017.me/testing-empire-as-post-exploitation-framework-in-domain-environment)
 
 ```markdown
 
