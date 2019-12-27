@@ -132,6 +132,11 @@ namespace PSEmpire_Stage1
 }
 ```
 
+compile:
+
+`csc.exe PSEmpireStage1.cs /reference:C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Management.Automation\v4.0_3.0.0.0__31bf3856ad364e35\System.Management.Automation.dll`
+
+
 For more details see [video](https://www.youtube.com/watch?v=0jaC8156BEE)
 
 ## ByPassAV to be continued...
