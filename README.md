@@ -151,3 +151,5 @@ like Gecko';$WC.HeAdErS.Add('User-Agent',$u);$WC.PRoxY= [SYStem.NEt.WEbREqUEsT]:
 ```
 
 [fully-undetectable-backdooring-pe-file](https://haiderm.com/fully-undetectable-backdooring-pe-file/)
+
+[PowerEmpire-Stage-1-to-CSharp](https://plaintext.do/AV-Evasion-Converting-PowerEmpire-Stage-1-to-CSharp-EN/)
