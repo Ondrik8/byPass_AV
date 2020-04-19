@@ -1,6 +1,7 @@
 https://github.com/sayhi2urmom/Antivirus_R3_bypass_demo
 
 ![](https://raw.githubusercontent.com/blackc03r/OSCP-Cheatsheets/master/.gitbook/assets/peek-2019-05-07-21-34.gif)
+https://github.com/blackc03r/OSCP-Cheatsheets/blob/master/offensive-security/defense-evasion/bypassing-windows-defender-one-tcp-socket-away-from-meterpreter-and-cobalt-strike-beacon.md
 
 
 ## Execute metasploit vbs payload in cmd shell
