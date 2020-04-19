@@ -1,3 +1,6 @@
+https://github.com/sayhi2urmom/Antivirus_R3_bypass_demo
+
+
 ## Execute metasploit vbs payload in cmd shell
 
 If you are a pentester/researcher,  you may want to gain a meterpreter session from a cmd shell at sometimes, ex: (sqlmap --os-shell, or other tools). Ex:
