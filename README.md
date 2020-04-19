@@ -1,5 +1,7 @@
 https://github.com/sayhi2urmom/Antivirus_R3_bypass_demo
 
+![](https://raw.githubusercontent.com/blackc03r/OSCP-Cheatsheets/master/.gitbook/assets/peek-2019-05-07-21-34.gif)
+
 
 ## Execute metasploit vbs payload in cmd shell
 
