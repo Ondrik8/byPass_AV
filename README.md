@@ -1,4 +1,7 @@
 
+#### [go-shellcode](https://github.com/brimstone/go-shellcode)
+#### [c#](https://github.com/cribdragg3r/Simple-Loader)
+
 ````
 # python2
 import ctypes
