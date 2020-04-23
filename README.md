@@ -1,6 +1,12 @@
+#### Non-interactive Installation PYTHON
 
+````
+msiexec /i python<version>.msi
 
-#### [c#](https://github.com/cribdragg3r/Simple-Loader)
+https://www.python.org/download/releases/2.5/msi/
+````
+
+#### [c# Simple-Loader](https://github.com/cribdragg3r/Simple-Loader)
 
 ````
 # python2
