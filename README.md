@@ -1,3 +1,10 @@
+https://github.com/cribdragg3r/Simple-Loader
+
+### B2E
+
+https://github.com/r00t-3xp10it/PandoraBox
+https://github.com/guillaC/xToBatConverter
+
 #### EVIL GIF
 
 ````
