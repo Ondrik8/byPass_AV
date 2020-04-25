@@ -1,3 +1,9 @@
+Stealing Signatures ПОДПИСЬ
+
+- https://github.com/secretsquirrel/SigThief
+- https://gist.github.com/r00t-3xp10it/88d4929fcded15fe22142426aa04a827
+
+
 - https://github.com/cribdragg3r/Simple-Loader
 
 ### B2E
