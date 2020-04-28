@@ -1,6 +1,15 @@
 
 # [SOURCE](https://github.com/topics/obfuscator)
 
+#### Blogs
+
+Red Team Tactics: Utilizing Syscalls in C# - Prerequisite Knowledge
+
+https://jhalon.github.io/utilizing-syscalls-in-csharp-1/
+
+
+#### Tools
+
 - https://github.com/rootm0s/Protectors
 - https://github.com/XenocodeRCE/neo-ConfuserEx
 
