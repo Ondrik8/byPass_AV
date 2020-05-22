@@ -1,3 +1,8 @@
+#### Powershell_Fernet_Obfuscator
+
+https://github.com/TheEyeOfCyber/FernHunt_WindowsPowershell-Obfuscator
+
+
 
 # [SOURCE](https://github.com/topics/obfuscator)
 
