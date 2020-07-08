@@ -1,4 +1,4 @@
-[![amsybypass](https://github.com/Mr-xn/Penetration_Testing_POC/raw/master/img/AMSI_TN_bypass.jpg)]
+![amsybypass](https://github.com/Mr-xn/Penetration_Testing_POC/raw/master/img/AMSI_TN_bypass.jpg)
 
 ````
 
