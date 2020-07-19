@@ -1,4 +1,4 @@
-# [All Resource Collection Projects](https://github.com/alphaSeclab/all-my-collection-repos)
+# [All Resource Collection Obfuscators](https://github.com/alphaSeclab/all-my-collection-repos)
 
 
 ![amsybypass](https://github.com/Mr-xn/Penetration_Testing_POC/raw/master/img/AMSI_TN_bypass.jpg)
