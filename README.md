@@ -1,3 +1,9 @@
+
+# [PE2HTML](https://osandamalith.com/2020/07/19/hacking-the-world-with-html/)
+
+# [IPObfuscator](https://github.com/OsandaMalith/IPObfuscator/edit/master/README.md)
+
+
 # [All Resource Collection Obfuscators](https://github.com/alphaSeclab/all-my-collection-repos)
 
 
