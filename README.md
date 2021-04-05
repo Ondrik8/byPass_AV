@@ -56,7 +56,7 @@ https://msdn.microsoft.com/en-us/library/69ze775t.aspx<br>
 
 # [PE2HTML](https://osandamalith.com/2020/07/19/hacking-the-world-with-html/)
 
-# [IPObfuscator](https://github.com/OsandaMalith/IPObfuscator/edit/master/README.md)
+# [IPObfuscator](https://github.com/OsandaMalith/IPObfuscator)
 
 
 # [All Resource Collection Obfuscators](https://github.com/alphaSeclab/all-my-collection-repos)
