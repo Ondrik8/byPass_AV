@@ -1,4 +1,4 @@
-[![powershell](https://github.com/Ondrik8/byPass_AV/blob/master/Screenshot_2.png)]()
+[![powershell](https://github.com/Ondrik8/byPass_AV/blob/master/Screenshot_2.png)](https://github.com/specterops/at-ps/blob/master/Adversary%20Tactics%20-%20PowerShell.pdf)
 
 # [DLL_reflect]
 
