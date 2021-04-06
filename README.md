@@ -2,7 +2,7 @@
 <p align="center">
   <body>
     <a href="https://github.com/specterops/at-ps/blob/master/Adversary%20Tactics%20-%20PowerShell.pdf">
-    <img src="https://github.com/Ondrik8/byPass_AV/blob/master/Screenshot_2.png" width="500" height="600">
+    <img src="https://github.com/Ondrik8/byPass_AV/blob/master/Screenshot_2.png" width="500" height="300">
   </body>
 </p>
 
