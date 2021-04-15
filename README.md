@@ -1,3 +1,8 @@
+![shellcode_obfuscator](/OWASP-ZSC.png)
+
+https://github.com/Gr1mmie/SharpShellCodeObfus
+
+
 ![PS](Screenshot_2.png)(https://github.com/specterops/at-ps/blob/master/Adversary%20Tactics%20-%20PowerShell.pdf)
 
 
