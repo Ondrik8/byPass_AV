@@ -82,7 +82,7 @@ start payload.exe
 
 https://github.com/Gr1mmie/SharpShellCodeObfus<br>
 https://github.com/ChoiSG/UuidShellcodeExec<br>
-
+https://github.com/alphaSeclab/shellcode-resources<br>
 
 
 ![PS](Screenshot_2.png)(https://github.com/specterops/at-ps/blob/master/Adversary%20Tactics%20-%20PowerShell.pdf)
