@@ -1,6 +1,30 @@
 ![Engineering antivirus evasion](https://blog.scrt.ch/wp-content/uploads/2020/06/LLVMCompiler1.png)(https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/)
 
-!
+# Obfuscation
+
+https://github.com/xoreaxeaxeax/movfuscator
+
+https://github.com/danielbohannon/Invoke-DOSfuscation
+
+https://github.com/unixpickle/gobfuscate - GO Obfuscator
+
+https://github.com/NotPrab/.NET-Obfuscator - Lists of .NET Obfuscator (Free, Trial, Paid and Open Source )
+
+https://github.com/javascript-obfuscator/javascript-obfuscator - Javascript Obfuscator
+
+https://github.com/danielbohannon/Invoke-Obfuscation - Powershell Obfuscator
+
+https://github.com/BinaryScary/NET-Obfuscate - .NET IL Obfuscator
+
+https://github.com/scrt/avcleaner - C/C++ source obfuscator for antivirus bypass
+
+https://github.com/meme/hellscape - GIMPLE obfuscator for C, C++, Go, ... all supported GCC targets and front-ends that use GIMPLE.
+
+https://github.com/mgeeky/VisualBasicObfuscator - VBS Obfuscator
+
+https://github.com/3xpl01tc0d3r/Obfuscator - Shellcode Obfuscator
+
+https://github.com/EgeBalci/sgn - Shellcode Encoder
 
 
 ![image](https://raw.githubusercontent.com/lengjibo/FourEye/main/image/2.png)
